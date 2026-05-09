@@ -1,0 +1,10 @@
+#Python 依赖列表（FastAPI、uvicorn、pymysql、openai、解析 PDF/Office 的库等）。	换机器可 pip install -r 复现环境。
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+openai>=1.0.0
+pymysql>=1.1.0
+cryptography>=42.0.0
+python-multipart>=0.0.9
+pypdf>=4.2.0
+python-docx>=1.1.2
+openpyxl>=3.1.5
